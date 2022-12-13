@@ -9,6 +9,7 @@ In the final practicum i plan to make a snakes game. I will be using JavaFX to m
 The snake will have spawn protection until it eat 2 food.
 
 OOP implementation
+
 ✅ Casting / Conversion
 snakeGame.java line 107
 
@@ -37,9 +38,15 @@ Snake.java line 18
 Snake.java line 133-144
 
 OOP not yet implemented
+
 -Overloading
+
 -Overriding
+
 -Exception Handing
+
 -Abstract Class
+
 -Collection
+
 -Generics
