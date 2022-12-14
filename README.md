@@ -21,7 +21,7 @@ Snake.java line 63
 Snake.java line 55-56
 
 ✅ Inheritance
-Snake.java line 9
+Snake.java line 16
 
 ✅ Polymorphism
 snakeGame.java line 113
