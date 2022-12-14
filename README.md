@@ -18,7 +18,7 @@ Snake.java line 55
 Snake.java line 63
 
 ✅ Encapsulation
-Snake.java line 56
+Snake.java line 55-56
 
 ✅ Inheritance
 Snake.java line 9
