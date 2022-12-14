@@ -26,11 +26,6 @@ Snake.java line 16
 ✅ Polymorphism
 snakeGame.java line 113
 
-✅ GUI
-snakeGame.java line 106-128 
-snakeGame.java line 130
-snakeGame.java line 147-158
-
 ✅ ArrayList
 Snake.java line 18
 
@@ -51,3 +46,5 @@ OOP not yet implemented
 -Collection
 
 -Generics
+
+-GUI
