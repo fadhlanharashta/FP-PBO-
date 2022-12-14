@@ -37,13 +37,14 @@ Snake.java line 18
 ✅ Input Output
 Snake.java line 133-144
 
+✅ Exception Handing
+snakeGame.java line 119-125
+
 OOP not yet implemented
 
 -Overloading
 
 -Overriding
-
--Exception Handing
 
 -Abstract Class
 
