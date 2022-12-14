@@ -5,6 +5,11 @@ Muhammad Fadhlan Ashila Harashta
 
 50252211068
 
+Reference:
+  https://www.youtube.com/watch?v=3pNyOWSIrwI
+  https://www.youtube.com/watch?v=om59cwR7psI
+  https://stackoverflow.com/questions/24702542/how-to-change-the-color-of-text-in-javafx-textfield
+
 In the final practicum i plan to make a snakes game. I will be using JavaFX to make the game. I use IntelliJ for the compiler of the program.
 The snake will have spawn protection until it eat 2 food.
 
