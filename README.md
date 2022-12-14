@@ -21,6 +21,8 @@ OOP implemented
 ✅ Casting / Conversion
 snakeGame.java line 107
 
+https://github.com/fadhlanharashta/FP-PBO-/blob/c9468062c3801d7f3592b0dd8ab478aa5172483e/SnakeGame/src/main/java/com/example/snakegame/snakeGame.java#L107
+
 ✅ Constructor
 Snake.java line 55
 Snake.java line 63
@@ -28,20 +30,29 @@ Snake.java line 63
 ✅ Encapsulation
 Snake.java line 55-56
 
+https://github.com/fadhlanharashta/FP-PBO-/blob/c9468062c3801d7f3592b0dd8ab478aa5172483e/SnakeGame/src/main/java/com/example/snakegame/Snake.java#L52-L57
+
 ✅ Inheritance
-Snake.java line 16
+Snake.java line 9
+
+https://github.com/fadhlanharashta/FP-PBO-/blob/c9468062c3801d7f3592b0dd8ab478aa5172483e/SnakeGame/src/main/java/com/example/snakegame/Snake.java#L9-L20
 
 ✅ Polymorphism
 snakeGame.java line 113
 
 ✅ ArrayList
 Snake.java line 18
+https://github.com/fadhlanharashta/FP-PBO-/blob/c9468062c3801d7f3592b0dd8ab478aa5172483e/SnakeGame/src/main/java/com/example/snakegame/Snake.java#L18
 
 ✅ Input Output
 Snake.java line 133-144
 
+https://github.com/fadhlanharashta/FP-PBO-/blob/c9468062c3801d7f3592b0dd8ab478aa5172483e/SnakeGame/src/main/java/com/example/snakegame/snakeGame.java#L130-L141
+
 ✅ Exception Handing
 snakeGame.java line 119-125
+
+
 
 OOP not yet implemented
 
